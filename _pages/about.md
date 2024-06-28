@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
 
 Hi! I'm a first-year PhD student in [Computing](https://www.cs.utah.edu/) at [University of Utah](https://www.utah.edu/). Along with this, I'm a graduate research assistant at [Scientific Computing & Imaging Institute](https://sci.utah.edu/) at University of Utah. I'm advised by [Mike Kirby](http://www.cs.utah.edu/~kirby) and [Shandian Zhe](https://users.cs.utah.edu/~zhe/).
 
