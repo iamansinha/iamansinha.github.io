@@ -11,7 +11,7 @@ citation: "Aman Sinha, Priyanshu Raj Mall, and Dwaipayan Roy. 2023. Findability:
 
 In this paper, we introduce the concept of *findability* under the unbrella of Information Accessibility and propose a novel systematic method to measure this new and more useful measure of information accessibility. We perform experiments to show that it is uncorrelated with an another measure *retrivability* from which findability takes inspiration to improve. <br><br>
 
-Paper presentation poster at CIKM `23: 
+Paper presentation poster at CIKM '23: 
 <!-- [poster](http://iamansinha.github.io/files/CIKM2023_poster.pdf) -->
 <br>
-<embed src="http://iamansinha.github.io/files/CIKM2023_poster.pdf" type="application/pdf" width="100%" />
+<embed src="https://iamansinha.github.io/files/CIKM2023_poster.pdf" type="application/pdf" width="100%" />
