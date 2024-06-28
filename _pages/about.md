@@ -23,7 +23,7 @@ You can reach me at [aman.sinha@utah.edu](mailto: aman.sinha@utah.edu) while I'm
 
 ### What's New!
 
-- [Mar 2024], I have taken a year-long break from my PhD due to certain health-related issues and I am currently back in India. What cool things am I working on these days? - coming up in [my blog posts](https://iamansinha.github.io/year-archive/)!
+- [Mar 2024], I have taken a year-long break from my PhD due to certain health-related issues and I am currently back in India. What projects am I working on these days? - coming up in [my blog posts](https://iamansinha.github.io/year-archive/)!
 
 - [Dec 2023] Our paper "[Exploring the Nexus Between Retrievability and Query Generation Strategies](https://doi.org/10.1007/978-3-031-56066-8_16)" accepted at ECIR 2024 in reproducibility track!
 
