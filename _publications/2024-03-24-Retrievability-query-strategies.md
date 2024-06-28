@@ -11,5 +11,3 @@ citation: 'Sinha, A., Mall, P.R., Roy, D. (2024). Exploring the Nexus Between Re
 
 In this paper, we investigate the reproducibility of *retrievability* analysis due to varying query sets used in the literature doing retrievability analysis of IR models. We experiment with all the major query generation strategies in the current literature and a real query log. Since, theroretically an ideal query set is a real query log over the corpus used, we find very low correlations between retrievability scores estimated through artificial query generation strategies and retrievability scores estimated through a real query log. We then propose an incremental improvement for generating artificial queries where we exploit POS-filtering to simulate more realistic queries which are found in query logs. This reproducibility track paper inspires development of more robust strategies to estimate retrival biases of retrieval models and stirs future work in the area.  <br><br>
 
-Paper presentation poster at CIKM `23:
-<embed src="https://github.com/mallpriyanshu/findability/blob/main/CIKM2023_poster.pdf" type="application/pdf" width="100%" />

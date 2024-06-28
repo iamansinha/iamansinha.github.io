@@ -16,11 +16,11 @@ Previously, I received my B.S. and M.S. in Physics at [IISER Kolkata](https://ww
 
 I am broadly interested in machine learning models for language understanding and mathematical & physical reasoning capabilities. Since current ML predictions lack proper grasp of physical laws of our world; my PhD focuses on Physics-informed ML to better model physical systems of research interest. In the long run, I want AI models to be able to understand mathematics-intensive research papers and be able to assist researchers in making new scientific discoveries.
 
-#### Contact me
+### Contact me
 
-You can reach me at [aman.sinha@utah.edu](mailto: aman.sinha@utah.edu) while I'm affliated at University of Utah, and, personally irrespective of my affliation, at [ai.amansinha@gmail.com](mailto:ai.amansinha@gmail.com).
+You can reach me at [aman.sinha@utah.edu](mailto: aman.sinha@utah.edu) while I'm at University of Utah, and, personally irrespective of my affliation, at [ai.amansinha@gmail.com](mailto:ai.amansinha@gmail.com).
 
-#### What's New!
+### What's New!
 
 - [Mar 2024], I have taken a year-long break from my PhD due to certain health-related issues and I am currently back in India. What cool things am I working on these days? - coming up in [my blog posts](https://iamansinha.github.io/year-archive/)!
 
@@ -32,7 +32,7 @@ You can reach me at [aman.sinha@utah.edu](mailto: aman.sinha@utah.edu) while I'm
 
 - [June 2023] Graduated from IISER Kolkata, India with a BS-MS in Physics (major) and Computational & Data Sciences (minor)!
 
-- [May 2023] Defended my master's thesis titled "[Retrivability in IR](/files/Aman_Sinha_MS_Project_Report_18MS065.pdf)". I'm indebted and thankful to my supervisor [Dr. Dwaipayan Roy]() - it has been a great research experience under your supportive guidance!
+- [May 2023] Defended my master's thesis titled "[Retrivability in IR](/files/Aman_Sinha_MS_Project_Report_18MS065.pdf)". I'm indebted and thankful to my supervisor [Dr. Dwaipayan Roy]() - it has been a great research experience under his supportive guidance!
 
 <!-- #### News -->
 <!-- Since Mar 2023, I have taken a year-long break from my PhD due to health reasons and I am currently in India. -->
