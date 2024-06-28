@@ -14,7 +14,7 @@ Previously, I received my B.S. and M.S. in Physics at [IISER Kolkata](https://ww
 
 ### My Research Interests
 
-I am broadly interested in machine learning models for language understanding and mathematical & physical reasoning capabilities. Since current ML predictions lack proper grasp of physical laws of our world; my PhD focuses on Physics-informed ML to better model physical systems of research interest. In the long run, I want AI models to be able to understand mathematics-intensive research papers and be able to assist researchers in making new scientific discoveries.
+I am broadly interested in machine learning models for language understanding and mathematical & physical reasoning capabilities. Since current ML predictions lack proper grasp of physical laws of our world, my PhD is focusing on Physics-informed ML to better model physical systems of research interest. In the long run, I want AI models to be able to understand mathematics-intensive research papers and be able to assist researchers in making new scientific discoveries.
 
 ### Contact me
 
