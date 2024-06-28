@@ -5,7 +5,7 @@ permalink: /publication/2024-03-24-Retrievability-query-strategies
 excerpt: 'In this paper, we investigate the reproducibility of *retrievability* analysis due to varying query sets used in the literature doing retrievability analysis of IR models.'
 date: 2024-03-24
 venue: 'The European Conference on Information Retrieval (ECIR)'
-paperurl: 'http://iamansinha.github.io/files/2310.09508v1.pdf'
+paperurl: 'http://iamansinha.github.io/files/Retrievability_and_ Query_ Generation_Strategies.pdf'
 citation: 'Sinha, A., Mall, P.R., Roy, D. (2024). Exploring the Nexus Between Retrievability and Query Generation Strategies. In: Goharian, N., et al. Advances in Information Retrieval. ECIR 2024. Lecture Notes in Computer Science, vol 14611. Springer, Cham. https://doi.org/10.1007/978-3-031-56066-8_16'
 ---
 
