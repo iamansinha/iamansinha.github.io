@@ -21,7 +21,7 @@ repository               : "iamansinha/iamansinha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my.png"
+  avatar           : "my.jpg"
   name             : "Aman Sinha"
   pronouns         : # example: "she/her"  
   bio              : "PhD student | PhD in Computing"
